@@ -1,4 +1,5 @@
 ## code inspired by tensorflow 2.0 tutorial --> freecodecamp
+## comments added to show understanding of core concepts
 
 from __future__ import absolute_import, division, print_function, unicode_literals
 import tensorflow as tf
